@@ -7,7 +7,7 @@ two webpages.
 ### Requirements:
 
 1. Request the URLs from the API
-  - URL: https://cfw-takehome.developers.workers.dev/api/variant
+  - URL: https://cfw-takehome.developers.workers.dev/api/variants
   - parse the response as JSON
   - response = array of URLs, should be saved to a variable
 
